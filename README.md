@@ -394,9 +394,10 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Team
 
-- **Your Name** - AI/ML Engineer - [GitHub](https://github.com/username)
-- **Team Member 2** - Blockchain Developer
-- **Team Member 3** - Full-Stack Developer
+- **Your Name** - Rohith Pranov - [GitHub](https://github.com/username)
+- **Team Member 2** - BS Vishal
+- **Team Member 3** - Keshore G
+- **Team Member 4** - Santhoshraja
 
 ---
 
@@ -417,8 +418,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📧 Contact
 
 **Project Link:** [https://github.com/yourusername/cybershield-india](https://github.com/yourusername/cybershield-india)
-
-**Email:** your.email@example.com
 
 ---
 
